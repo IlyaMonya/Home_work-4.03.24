@@ -72,3 +72,13 @@ git branch
 ```sh
 git checkout master or main
 ```
+
+Создание новой ветки:
+```sh
+git branch <branch_name>
+```
+
+Удаление ветки:
+```sh
+git branch -d <branch_name>
+```
