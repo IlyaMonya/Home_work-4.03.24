@@ -2,6 +2,14 @@
 
 ## Команды
 
+Авторизация в Git:
+```sh
+git config --global user.name "Name"
+git config --global user.email "email"
+```
+
+
+
 Команда отображения текущей дериктории
 ```sh
 pwd
