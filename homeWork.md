@@ -16,3 +16,9 @@ Linux, MacOs:
 ```sh
 ls
 ```
+
+Перемещение по веткам:
+```sh
+git checkout <branch_name>
+```
+
