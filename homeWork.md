@@ -7,3 +7,12 @@
 pwd
 ```
 
+Листинг текущей директории 
+Windows:
+```sh
+dir
+```
+Linux, MacOs:
+```sh
+ls
+```
