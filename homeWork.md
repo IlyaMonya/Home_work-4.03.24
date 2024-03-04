@@ -67,3 +67,8 @@ git checkout <имя ветки>
 ```sh
 git branch
 ```
+
+Вернуться к последнему состояний изменений:
+```sh
+git checkout master or main
+```
