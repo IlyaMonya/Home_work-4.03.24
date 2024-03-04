@@ -8,6 +8,20 @@ git config --global user.name "Name"
 git config --global user.email "email"
 ```
 
+Инициализация репозитория:
+```sh
+git init
+```
+
+Команда статуса ветки:
+```sh
+git status
+```
+
+Добавить отслеживание изменений:
+```sh
+git add <file_name>
+```
 
 
 Команда отображения текущей дериктории
